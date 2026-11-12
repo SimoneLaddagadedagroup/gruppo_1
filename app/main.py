@@ -3,6 +3,7 @@ from app.task_report import riepilogo
 
 # commento 1
 # commento 2
+# new featured added - Reza
 def main() -> None:
     tasks = []
     aggiungi_task(tasks, "Preparare backlog", "Anna")
