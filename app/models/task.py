@@ -11,5 +11,5 @@ class Task:
 class Task2:
     id: int
     titolo: str
-    completato: bool = False
+    completato: bool = True
     assegnatario: str = ""
