@@ -12,4 +12,4 @@ class Task2:
     id: int
     titolo: str
     completato: bool = True
-    assegnatario: str = ""
+    assegnatario: str = "":
