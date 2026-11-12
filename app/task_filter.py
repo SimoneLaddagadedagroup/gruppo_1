@@ -1,8 +1,8 @@
 from app.models.task import Task
 
 
-def filtra_per_stato(tasks: list[Task], completato: bool) -> list[Task]:
-    return [task for task in tasks if task.completato == completato]
+##def filtra_per_stato(tasks: list[Task], completato: bool) -> list[Task]: new functionality
+ ##   return [task for task in tasks if task.completato == completato]
 
 
 def cerca_per_titolo(tasks: list[Task], testo: str) -> list[Task]:
