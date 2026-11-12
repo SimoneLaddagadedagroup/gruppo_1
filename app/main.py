@@ -2,6 +2,7 @@ from app.task_service import aggiungi_task, completa_task
 from app.task_report import riepilogo
 
 # commento 1
+# commento 2
 def main() -> None:
     tasks = []
     aggiungi_task(tasks, "Preparare backlog", "Anna")
