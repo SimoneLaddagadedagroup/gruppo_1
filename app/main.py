@@ -7,6 +7,7 @@ from app.task_report import riepilogo
 # new comment from reza.
 
 #main modified
+#main modified again
 def main() -> None:
     tasks = []
     aggiungi_task(tasks, "Preparare backlog", "Anna")
