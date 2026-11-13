@@ -19,3 +19,9 @@ class Task3:
     titolo: str
     completato: bool = True
     assegnatario: str = ""
+
+class Task4:
+    id: int
+    titolo: str
+    completato: bool = True
+    assegnatario: str = ""
