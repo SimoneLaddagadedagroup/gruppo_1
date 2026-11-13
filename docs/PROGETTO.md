@@ -15,6 +15,7 @@
 - Formattazione avanzata dell'output
 - blabla
 - blablablabla
+- more blabla
 
 ## Situazioni collaborative da simulare
 - Due sviluppatori modificano funzioni distinte
