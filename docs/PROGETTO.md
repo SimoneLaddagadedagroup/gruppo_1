@@ -13,6 +13,8 @@
 - Gestione scadenze
 - Report suddiviso per persona
 - Formattazione avanzata dell'output
+- blabla
+- blablablabla
 
 ## Situazioni collaborative da simulare
 - Due sviluppatori modificano funzioni distinte
