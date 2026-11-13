@@ -5,6 +5,8 @@ from app.task_report import riepilogo
 # commento 2
 # new featured added - Reza
 # new comment from reza.
+
+#main modified
 def main() -> None:
     tasks = []
     aggiungi_task(tasks, "Preparare backlog", "Anna")
